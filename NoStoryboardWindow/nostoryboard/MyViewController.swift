@@ -17,12 +17,11 @@ class MyViewController: NSViewController {
             view.layer?.backgroundColor = NSColor.white.cgColor
         
             let label = NSTextField()
-            label.frame = CGRect(x: view.bounds.width/2-50, y: view.bounds.height/2, width: 100, height: 44)
+            label.frame = CGRect(x: view.bounds.width / 2 - 50, y: view.bounds.height / 2 - 22, width: 100, height: 44)
             label.stringValue = "Hello, World!"
             label.backgroundColor = .white
             label.isBezeled = false
             label.isEditable = false
-            label.sizeToFit()
             view.addSubview(label)
        }
 
