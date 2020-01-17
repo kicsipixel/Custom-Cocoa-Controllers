@@ -3,6 +3,10 @@
 [![Platform](http://img.shields.io/badge/platform-macOS-red.svg?style=flat)](https://developer.apple.com/macos/)
 [![Github](http://img.shields.io/badge/github-lukakerr-green.svg?style=flat)](https://github.com/kicsipixel)
 
+## Custom NSWindow
+
+## No Storyboard Window
+
 ## Custom NSTextField and NSTextFieldCell
 
 ![screenshot](Screenshot.png)
